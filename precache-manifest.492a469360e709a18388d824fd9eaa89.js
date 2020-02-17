@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a3add7feadb3e1528900b995b7dde3",
+    "revision": "0a69ac4a0137555760d5d7aaa2260faf",
     "url": "/meme-generator/index.html"
   },
   {
