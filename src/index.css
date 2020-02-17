@@ -38,7 +38,9 @@ body{
 	text-shadow: 3px 2px black
 }
 
-
+#meme img{
+	max-width: 80%;
+}
 #meme .memeTopText{
 	position: absolute;
 	top:30px;
