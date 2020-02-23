@@ -1,6 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Meme Generator
+========
+
+meme generator, get data by GET request  to https://api.imgflip.com/get_memes
+
+you can see it live at [https://andreas-sujono.github.io/meme-generator/](https://andreas-sujono.github.io/meme-generator/)
+
+<img src='./Readme-asset/demo.png' alt="meme generator demo" width='100%' />
+
+Dependencies
+--------
+
+- react
+- gh-pages (for deployment)
+
+Other library: Bootstrap
+
+Installation
+------------
+
+Clone this repository, and run:
+
+    yarn install
+
+   or
+   
+    npm install
+
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
